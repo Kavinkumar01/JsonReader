@@ -1,0 +1,16 @@
+{
+    "FormDetails":{
+        "FormName":"testName"
+    },
+    "External":{
+        "name":"kavin",
+        "nameList": [
+            {
+                "tester":"Sakthi"
+            },
+            {
+                "tester":"Rajesh"
+            }
+        ]
+    }
+}
